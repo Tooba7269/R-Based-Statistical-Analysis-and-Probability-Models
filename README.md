@@ -33,7 +33,7 @@ This repository contains solutions to a series of statistical and probability-ba
 - **`scripts/`**: Contains R scripts for solving each problem.
 - **`data/`**: Includes input datasets like `lenses.csv`.
 - **`results/`**: Contains outputs such as tables, plots, and summary statistics.
-- **`reports/`**: Final report (`Assessment2024_Solutions.pdf`) documenting all solutions.
+- **`reports/`**: Final report (`statistical problems.pdf`) documenting all solutions.
 
 ---
 
