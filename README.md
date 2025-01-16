@@ -1,0 +1,2 @@
+# R-Based-Statistical-Analysis-and-Probability-Models
+This holds solutions to an advanced statistical and probability-based test. Discussed issues are probability theory, Poisson and normal distributions, Bayes Theorem, and statistical hypothesis testing (simple and multiple ANOVA). The project also consists of the detailed quantitative analyses and visualizations of the real-world situations/data.
